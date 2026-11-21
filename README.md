@@ -1,5 +1,7 @@
 # 🛡️ AuraGuard AI (v2.5 Advanced Telemetry Edition)
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Ansh1-43/UBAQ-Assistant)
+
 > **Advanced Winter Smog & Atmospheric Command Center: Powered by Gemini 3.8 Flash, Radiosonde Inversion Soundings, Fluid Aerodynamic Particle Simulation, and Alveolar Deposition Mathematics.**
 
 ---
